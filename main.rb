@@ -2,4 +2,3 @@
 require "./book"
 book = Book.new
 book.title = "HHH"
-puts book.title
